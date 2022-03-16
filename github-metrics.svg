@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.6852900028886" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="285.6852900028886" y="0" width="50.19693448366203" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="335.8822244865506" y="0" width="43.7079291618019" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.59015364835255" y="0" width="31.125399434608084" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="410.71555308296064" y="0" width="21.648428395571415" height="8" fill="#76d275"/>
-                    <rect mask="url(#languages-bar)" x="432.363981478532" y="0" width="17.364157700452118" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.7281391789841" y="0" width="7.782484679680662" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.5106238586648" y="0" width="2.4893761413351703" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.69579991169763" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="285.69579991169763" y="0" width="50.19390797371388" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="335.8897078854115" y="0" width="43.70529389166475" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.5950017770762" y="0" width="31.123522799470944" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="410.71852457654717" y="0" width="21.647123152839463" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="432.3656477293867" y="0" width="17.363110768073437" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.72875849746015" y="0" width="7.7820154524749245" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.510773949935" y="0" width="2.4892260500649774" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1343,6 +1343,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d11a1bd</div>
+                                        <div class="message">wal
+
+Signed-off-by: ls-2018 &lt;acejilam@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ls-2018/etcd_cn</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c5b5d2b</div>
                                         <div class="message">example over
 
@@ -1419,26 +1441,6 @@ Signed-off-by: ls-2018 &lt;acejilam@gmail.com&gt;</div>
                                         <div class="message">-
 
 Signed-off-by: ls-2018 &lt;acejilam@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ls-2018/dapr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">lock</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e407dc5</div>
-                                        <div class="message">Merge branch 'master' into lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -1960,7 +1962,7 @@ Signed-off-by: ls-2018 &lt;acejilam@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2022, 16:14:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Mar 2022, 17:12:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
