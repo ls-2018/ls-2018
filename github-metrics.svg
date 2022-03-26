@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1905" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1311,6 +1311,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ls-2018/k8s</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5806017</div>
+                                        <div class="message">Update manual.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ls-2018/k8s</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ef0ebf</div>
+                                        <div class="message">Update manual.yml</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -1359,141 +1399,6 @@
                                         <div class="message">add test
 
 Signed-off-by: ls-2018 &lt;acejilam@gmail.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 17 commits in
-                                        <span class="repo">ls-2018/dapr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4cf4994</div>
-                                        <div class="message">Merge pull request #4421 from jjcollinge/jjcollinge/actor-reminders-stop
-
-Fix multiple active actor reminders</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17a4d09</div>
-                                        <div class="message">update log to include target host for debugging
-
-Signed-off-by: Joni Collinge &lt;jonathancollinge@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#840864b</div>
-                                        <div class="message">change log.Infof to log.Debugf
-
-Signed-off-by: Joni Collinge &lt;jonathancollinge@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcf0171</div>
-                                        <div class="message">stop reminders that are active but not assigned to the that host
-
-Signed-off-by: Joni Collinge &lt;jonathancollinge@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79ffea4</div>
-                                        <div class="message">Add e2e tests for actor resiliency (#4404)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d63f12d</div>
-                                        <div class="message">Merge pull request #4414 from halspang/resiliency/grpc_unit
-
-Add resiliency tests for gRPC and fix flaky test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e0453cd</div>
-                                        <div class="message">Add resiliency tests for gRPC and fix flaky test
-
-This commit adds the tests the HTTP API has to the gRPC API. It also
-fixes a flaky test for resiliency on windows.
-
-Signed-off-by: Hal Spang &lt;halspang@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbd1262</div>
-                                        <div class="message">Merge pull request #4335 from r-c-correa/state_cockroachdb
-
-Support for CockroachDB StateStore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6361953</div>
-                                        <div class="message">Merge branch 'master' into state_cockroachdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9c4e56</div>
-                                        <div class="message">Update latest components-contrib (#4409)
-
-* update latest components-contrib
-
-Signed-off-by: yaron2 &lt;schneider.yaron@live.com&gt;
-
-* update latest components-contrib
-
-Signed-off-by: yaron2 &lt;schneider.yaron@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19af092</div>
-                                        <div class="message">Merge pull request #4410 from pkedy/feature/resiliency_cb_info_logging
-
-Resiliency: Changing log level of circuit breaker state changes from Debug to Info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e334d9b</div>
-                                        <div class="message">Changing log level of circuit breaker state changes from Debug to Info.
-
-Signed-off-by: Phil Kedy &lt;phil.kedy@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed590d4</div>
-                                        <div class="message">Merge branch 'master' into state_cockroachdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#812a675</div>
-                                        <div class="message">Merge branch 'master' into state_cockroachdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b53c4e</div>
-                                        <div class="message">Merge branch 'master' into state_cockroachdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42c361c</div>
-                                        <div class="message">Merge branch 'master' into state_cockroachdb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed2a5c2</div>
-                                        <div class="message">Support for CockroachDB StateStore
-
-Signed-off-by: Ricardo Corrêa &lt;r.c.correa@outlook.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ls-2018/dapr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">DNSPolicy</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f964ceb</div>
-                                        <div class="message">Merge branch 'master' into DNSPolicy</div>
                                     </div>
                                 </div>
                             </section>
@@ -2056,7 +1961,7 @@ Signed-off-by: Ricardo Corrêa &lt;r.c.correa@outlook.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2022, 08:50:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Mar 2022, 10:18:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
