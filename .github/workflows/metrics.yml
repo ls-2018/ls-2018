@@ -24,8 +24,9 @@ jobs:
 
           # Options
           user: ls-2018
-          template: classic
-          # base: header
+          #template: classic
+          base: ""
+          # header
           # , community, repositories, metadata
           config_timezone: Asia/Shanghai
           #plugin_achievements: yes
